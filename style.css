@@ -1,0 +1,46 @@
+
+.header{
+    background-color:#00FF50;
+    display: flex;
+    justify-content: space-between;
+    }
+    
+.bodyimg{
+    background-color:#FF3355
+
+}
+
+.grid {
+border:2px solid #000000;
+border-radius:50px;
+display: flex;
+justify-content: space-evenly;
+flex-wrap:wrap;
+}   
+
+.item{
+border-radius:20px;
+background-color:#FFFFFF;
+
+width:310px;
+font-family:fantasy;
+}
+
+.menu{
+display:flex;
+justify-content:space-between;
+background-color:#000000;
+font-size: 20px;
+font-family:sans-serif;
+font-weight:400;
+color:#FFFFFF;
+}
+
+body{
+    margin:0px;
+    background-color:#DDFFAA
+}
+
+p{
+    text-align: center;
+}
